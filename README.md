@@ -1,10 +1,10 @@
-Vim Tmux Navigator
+Vim - i3wm - Tmux Navigator
 ==================
 
 This plugin is a repackaging of [Mislav Marohnić's][] tmux-navigator
-configuration described in [this gist][]. When combined with a set of tmux
+configuration described in [this gist][]. When combined with sets of tmux and i3wm
 key bindings, the plugin will allow you to navigate seamlessly between
-vim and tmux splits using a consistent set of hotkeys.
+system windows,vim and tmux splits using a consistent set of hotkeys.
 
 **NOTE**: This requires tmux v1.8 or higher.
 

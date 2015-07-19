@@ -1,7 +1,7 @@
 /* File: i3_vim_focus.c
  *
  * Compile with:
- * gcc i3_vim_focus.c -lX11 -lxdo -o i3_vim_focus $(pkg-config --libs --cflags i3ipc-glib-1.0)
+ * gcc i3_tmux_vim_focus.c -lX11 -lxdo -o i3_tmux_vim_focus $(pkg-config --libs --cflags i3ipc-glib-1.0)
  *
  */
 

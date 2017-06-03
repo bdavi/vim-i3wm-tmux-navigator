@@ -6,7 +6,7 @@ configuration described in [this gist][]. When combined with sets of tmux and i3
 key bindings, the plugin will allow you to navigate seamlessly between
 system windows,vim and tmux splits using a consistent set of hotkeys.
 
-**NOTE**: This requires tmux v1.8 or higher.
+**NOTE**: This requires tmux v1.8 or higher.  
 **NOTE** For proper i3wm-tmux-vim configuration, please see [this commit](https://github.com/fogine/dotfiles/commit/822f9675deede87a1abc82464272f2612e583227) of my dotfiles.  
 Also you will need [THIS](https://github.com/fogine/dotfiles/blob/master/bin/tmux_sys_win_aware_navigation.sh) script in your path together with [THIS](https://github.com/fogine/vim-i3wm-tmux-navigator/tree/master/bin) binary executable.  
 I had it working with tmux 2.0 however after a while I disabled it as it is faster for me to navigate between system windows with win+h/j/k/l, instead of ctrl+h/j/k/l  
